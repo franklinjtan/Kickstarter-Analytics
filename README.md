@@ -17,11 +17,11 @@ Kickstarter makes money when creators have projects that successfully meet its f
 
 ## Team
 * Business Scientists/Analysts:
-  * Allison Bass
-  * Dylan Juarez
-  * Prakash Rao
-  * Franklin Tan
-  * Alfonso Alday Vergara
+  * [Allison Bass, Senior Analyst, Analytics & Insights at Instacart](https://www.linkedin.com/in/allisonhbass/)
+  * [Dylan Juarez, Senior Analyst, Customer Strategy & Analytics at The Home Depot](https://www.linkedin.com/in/dylan-juarez-318192151/)
+  * [Prakash Rao, Director, Digital Strategy, Cardiac Rhythm Management at Medtronic](https://www.linkedin.com/in/prakashrao23/)
+  * [Franklin Tan, Data Science Consultant, Analytics Platform Modernization at Tan Consulting](https://www.linkedin.com/in/franklinjtan/)
+  * [Alfonso Alday Vergara, Global Lead Buyer | IT Procurement at Hunter Douglas](https://www.linkedin.com/in/alfonso-alday-vergara-a37802130/)
 * Executives and Advisory Board:
   * [Bruce Kornfeld, Chief Marketing and Product Officer at StorMagic](https://www.linkedin.com/in/brucekornfeld/)
   * [Doris Huang, Vice President of Customer Success, evolvedMD](https://www.linkedin.com/in/doris-huang-a1598836/)
