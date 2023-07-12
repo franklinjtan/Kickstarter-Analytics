@@ -25,3 +25,4 @@ Kickstarter makes money when creators have projects that successfully meet its f
 * Executives and Advisory Board:
   * [Bruce Kornfeld, Chief Marketing and Product Officer at StorMagic](https://www.linkedin.com/in/brucekornfeld/)
   * [Doris Huang, Vice President of Customer Success, evolvedMD](https://www.linkedin.com/in/doris-huang-a1598836/)
+  * [Sai Chand Chintala, Ph.D. Student in Marketing at Cornell University](https://www.linkedin.com/in/saichand/)
